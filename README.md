@@ -26,7 +26,7 @@ let함수
 널이 될 수 있는 기본 타입: Int?, Boolean? 등
 Any, Any?: 최상위 타입
 Unit 타입: 코틀린의 void
-Nothing 타입: “이 함수는 결코 정상적으로 끝나지 않는다.”
+Nothing 타입: “이 함수는 결코 정상적으로 끝나지 않는다.” 및 type alias
 
 ## 함수
 함수
